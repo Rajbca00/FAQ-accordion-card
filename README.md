@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Source](https://github.com/Rajbca00/FAQ-accordion-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [FAQ accordion card](https://wizardly-bhabha-ad17ef.netlify.app)
 
 ## My process
 
